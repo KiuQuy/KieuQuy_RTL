@@ -1,4 +1,4 @@
-module detect_number // mearly output
+module detect_number 
 	(
 	input clk, rst_n,
 	input valid, data_in,
